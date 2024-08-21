@@ -1,0 +1,9 @@
+[submodule "services/order-service"]
+	path = services/order-service
+	url = https://github.com/dummyrepos/order-service.git
+[submodule "services/identity-service"]
+	path = services/identity-service
+	url = https://github.com/dummyrepos/identity-service.git
+[submodule "deployments/deployments"]
+	path = deployments/deployments
+	url = https://github.com/dummyrepos/deployments.git
